@@ -27,7 +27,7 @@ global.CAPTION = '*©*'
 📌⭕ 𝗬𝗢𝗨 𝗠𝗨𝗦𝗧 𝗣𝗥𝗢𝗩𝗜𝗗𝗘 𝗕𝗘𝗙𝗢𝗥𝗘 𝗗𝗘𝗣𝗟𝗢𝗬 𝗕𝗢𝗧 📌⭕
 > Ai Bot Password Get From Watching This Video 
 */
-global.AI_PASSWORD = 'Kibg-nima-gpt-bot'
+global.AI_PASSWORD = 'King-nima-gpt-bot'
 global.SESSION_ID = 'elisa_md@;;;xVcDhbyb#DtZzcWe2mrUWCpVl3ptX8d4Jm3jfNPu5l39aYPzIlFw'
 
 /*
